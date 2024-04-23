@@ -1,0 +1,28 @@
+.search{
+    height:40px;
+    width:300px;
+    border-radius: 10px;
+}
+
+
+.searchbtn{
+    height:30px;
+    width:60px;
+    border-radius: 10px;
+}
+
+body{
+    background: url('https://i.pinimg.com/originals/40/a3/5e/40a35e5f8ac4b4fe816d43912d33d3e0.gif');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.bottom{
+    padding-top: 120px;
+}
+
+.top{
+    padding-top: 60px;
+}
+
